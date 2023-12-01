@@ -1,0 +1,26 @@
+<Staff>
+    <row>
+        <emp_no>12</emp_no>
+        <gender>Male</gender>
+        <phone>0714577890</phone>
+        <name>Shehan Silva</name>
+        <address>23 Flower's Ave</address>
+    </row>
+    
+    <row>
+        <emp_no>13</emp_no>
+        <gender>Female</gender>
+        <phone>0770177802</phone>
+        <name>Kamal Dias</name>
+        <address>876 The silva Rd</address>
+    </row>
+
+    <row>
+        <emp_no>14</emp_no>
+        <gender>Male</gender>
+        <phone>0789876143</phone>
+        <name>Joe Fernando</name>
+        <address>2/34 School Ave</address>
+    </row>
+
+</Staff>

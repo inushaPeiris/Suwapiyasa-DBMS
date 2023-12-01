@@ -1,0 +1,31 @@
+<Patient>
+    <row>
+        <patient_no>1014</patient_no>
+        <name_initial>M</name_initial>
+        <name_surname>Jackson</name_surname>
+        <address>12 2nd St</address>
+        <age>35</age>
+        <phone_no>0787890103</phone_no>
+        <blood_type>B</blood_type>
+    </row>
+
+    <row>
+        <patient_no>1015</patient_no>
+        <name_initial>H</name_initial>
+        <name_surname>Ashan</name_surname>
+        <address>56 Main St</address>
+        <age>24</age>
+        <phone_no>0767800122</phone_no>
+        <blood_type>A</blood_type>
+    </row>
+
+    <row>
+        <patient_no>1016</patient_no>
+        <name_initial>S</name_initial>
+        <name_surname>Wickramasinghe</name_surname>
+        <address>456 Elm St</address>
+        <age>65</age>
+        <phone_no>0717888220</phone_no>
+        <blood_type>AB</blood_type>
+    </row>
+</Patient>
